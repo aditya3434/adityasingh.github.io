@@ -1,0 +1,89 @@
+.row-header {
+  margin: 0px auto;
+  padding: 0px 0px; }
+
+.row-content {
+  margin: 0px auto;
+  padding: 50px 0px;
+  border-bottom: 1px ridge;
+  min-height: 400px; }
+
+.footer {
+  background-color: #D1C4E9;
+  margin: 0px auto;
+  padding: 20px 0px; }
+
+.header {
+  margin: 0px auto;
+  padding: 70px 20px 30px 30px;
+}
+
+.jumbotron {
+  margin: 0px auto;
+  padding: 70px 30px 70px 30px;
+  background: #fc5a03;
+}
+
+address {
+  font-size: 80%;
+  margin: 0px;
+  color: #0f0f0f; }
+
+body {
+  padding: 50px 0px 0px 0px;
+  z-index: 0; }
+
+.myimg {
+  border: 5px solid white;
+}
+
+.navbar {
+  background-color: white;
+}
+
+.nav-link {
+  color: black;
+}
+
+.nav-link:hover {
+  background-color: #fc5a03;
+  transition: 0.3s ease;
+  color: white;
+}
+
+.navbar-nav > li{
+  padding-left:15px;
+  padding-right:15px;
+}
+
+.footer {
+  background-color: #fc5a03;
+  color: white;
+  text-align: center;
+}
+
+.footer p{
+  font-size: 42px;
+  color: #fff;
+}
+
+.footer ul li{
+  display: inline-block;
+  list-style: none;
+}
+
+.footer ul li a{
+  text-decoration: none;
+  margin: 10px 40px;
+  font-size: 27px;
+  padding: 20px 20px;
+  color: #fff;
+  border: 2px solid #fff;
+  border-radius: 50%;
+  transition: 0.5s ease;
+}
+
+.footer ul li a:hover{
+  color: #fc5a03;
+  background-color: #fff;
+}
